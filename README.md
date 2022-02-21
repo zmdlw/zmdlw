@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm zmdlw</h1>
 
+<h2 align="middle"Techs that I've used at least once</h3>
+
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
 - 🌱 I’m currently learning **python, Javascript**
 
 - 📫 How to reach me **giraffe0582@gmail.com**
