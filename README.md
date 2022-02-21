@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm zmdlw</h1>
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=zmdlw)](https://solved.ac/zmdlw)
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zmdlw&theme=darkhub" alt="zmdlw" /></a> </p>
 
 - 🌱 I’m currently learning **python, Javascript**
 
