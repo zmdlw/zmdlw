@@ -2,9 +2,9 @@
 
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
-- 🌱 I’m currently learning Python, Javascript
+🌱 I’m currently learning Python, Javascript
 
-- 📫 How to reach me **giraffe0582@gmail.com**
+📫 How to reach me **giraffe0582@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
