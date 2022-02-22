@@ -2,7 +2,7 @@
 
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
-- 🌱 I’m currently learning **python, Javascript**
+- 🌱 I’m currently learning Python, Javascript
 
 - 📫 How to reach me **giraffe0582@gmail.com**
 
@@ -16,5 +16,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zmdlw&show_icons=true&locale=en&layout=compact" alt="zmdlw" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zmdlw&show_icons=true&locale=en" alt="zmdlw" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zmdlw&" alt="zmdlw" /></p>
