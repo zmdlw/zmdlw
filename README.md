@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm zmdlw</h1>
 
 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/><img alt="Python" src ="https://img.shields.io/badge/#F7DF1E-#F7DF1E.svg?&style=for-the-badge&logo=Javascript&logoColor=white"/>
 - 🌱 I’m currently learning Python, Javascript
 
 - 📫 How to reach me **giraffe0582@gmail.com**
