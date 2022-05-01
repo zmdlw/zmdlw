@@ -6,5 +6,5 @@
 
 <p align="center"><![zmdlw's GitHub stats](https://github-readme-stats.vercel.app/api?username=zmdlw&show_icons=true)/></p>
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=rlgns0705)](https://solved.ac/zmdlw)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=zmdlw)](https://solved.ac/zmdlw)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=zmdlw&theme=dark)
