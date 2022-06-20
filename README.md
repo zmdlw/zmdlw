@@ -7,6 +7,3 @@
 <p align="center"><![zmdlw's GitHub stats](https://github-readme-stats.vercel.app/api?username=zmdlw&show_icons=true)/></p>
 
   ## skills 💻
-[/github/pipenv/locked/python-version/:user/:repo](https://img.shields.io/endpoint?url=<URL>&style<STYLE>
-
-)
