@@ -6,6 +6,6 @@
 
 <p align="center"><![zmdlw's GitHub stats](https://github-readme-stats.vercel.app/api?username=zmdlw&show_icons=true)/></p>
   
-![*'s GitHub stats](https://github-readme-stats.vercel.app/api?username=zmdlwtheme=dark)
+![*'s GitHub stats](https://github-readme-stats.vercel.app/api?username=zmdlw)
   
   ## skills 💻
