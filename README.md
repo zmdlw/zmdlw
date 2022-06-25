@@ -6,5 +6,5 @@
 
 <p align="center"><![zmdlw's GitHub stats](https://github-readme-stats.vercel.app/api?username=zmdlw&show_icons=true)/></p>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zmdlw&layout=compact)](https://github.com/zmdlw/github-readme-stats)
+[![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=zmdlw)](https://solved.ac/profile/zmdlw)
   ## skills 💻
