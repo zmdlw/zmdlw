@@ -6,5 +6,5 @@
 
 <p align="center"><![zmdlw's GitHub stats](https://github-readme-stats.vercel.app/api?username=zmdlw&show_icons=true)/></p>
   
-![*'s GitHub stats](https://github-readme-stats.vercel.app/api?username=zmdlw)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zmdlw&layout=compact)](https://github.com/zmdlw/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zmdlw&layout=compact)](https://github.com/zmdlw/github-readme-stats)
   ## skills 💻
