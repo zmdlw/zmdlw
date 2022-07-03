@@ -1,4 +1,6 @@
-<img src="https://www.transparentpng.com/thumb/trophy/xoS9QC-trophy-clipart-transparent-golden-medal-image.png" alt="trophy clipart transparent golden medal image @transparentpng.com" height="100">
+<h1><img src="https://www.transparentpng.com/thumb/trophy/xoS9QC-trophy-clipart-transparent-golden-medal-image.png" alt="trophy clipart transparent golden medal image @transparentpng.com" height="50"> Github Profile Throphy
+  
+  
 <p align="middle"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zmdlw" alt="zmdlw" /></a> </p>
 <p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
 
