@@ -1,4 +1,4 @@
-<p align="left"><img src="https://img.lovepik.com/element/40145/1018.png_300.png" alt="throphy" height="50" /></a></p>
+<p align="left"><img src="[https://img.lovepik.com/element/40145/1018.png_300.png](https://cdn-icons-png.flaticon.com/512/199/199317.png)" alt="throphy" height="50" /></a></p>
 <p align="middle"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zmdlw" alt="zmdlw" /></a> </p>
 <p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
 
