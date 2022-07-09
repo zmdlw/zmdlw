@@ -24,7 +24,7 @@ elif tired:
 
 ---
 
-**🐱 My GitHub Data** 
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="20"> <em><b> **My GitHub Data** <em><b>
 
 > 🏆 873 Contributions in the Year 2022
  > 
