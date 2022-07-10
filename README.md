@@ -1,5 +1,5 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>(Hello)🙏🏻, I'm zmdlw! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="358.5">
+<img align='right' src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="300.5">
 <p><em>Meet me at <a href="https://stackoverflow.com/users/16779760/zmdlw">Stack Over Flow
 </a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" width=20"> 
 </em></p>
