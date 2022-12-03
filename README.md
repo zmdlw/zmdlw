@@ -1,7 +1,6 @@
 # Hello World
 
-<img alt="VISITORS" src="https://komarev.com/ghpvc/?username=zmdlw&style=flat&labelColor=gray&logo=github&label=PROFILE+VIEWS&color=D3D3D3"/>
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzmdlw%2Fhit-counter&count_bg=%23D3D3D3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=PROFILE+VIEWS&edge_flat=true)](https://hits.seeyoufarm.com)
 
 ## I'm [**zmdlw**]() and welcome to my GitHub profile!
 
