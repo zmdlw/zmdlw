@@ -1,16 +1,11 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>(Hello)🙏🏻, I'm zmdlw! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="400">
+# Hello World
 
-<p><em>Talk with me at <a href="https://mail.google.com/">Gmail </a><img src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" width=15"> 
-</em></p>
+<img alt="VISITORS" src="https://komarev.com/ghpvc/?username=zmdlw&style=flat&labelColor=gray&logo=github&label=PROFILE+VIEWS&color=D3D3D3"/>
 
 
-![GitHub followers](https://img.shields.io/github/followers/zmdlw?label=Follow&style=social)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/)
-![](https://visitor-badge.glitch.me/badge?page_id=zmdlw.zmdlw)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzmdlw%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+## I'm [**zmdlw**]() and welcome to my GitHub profile!
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> A little more about me...  
 
 ```python
 if awake:
@@ -19,23 +14,8 @@ elif tired:
     drink_coffee()
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **Languages/Tech Stack:** 
 
----
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"><img src="https://img.shields.io/badge/C++-8b00ff?style=for-the-badge&logo=Cplusplus&logoColor=white">
 
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="20"> <em><b> **My GitHub Data** <em><b>
-
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
-
-> 🏆 873 Contributions in the Year 2022
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 16 Public Repositories 
- > 
-> 🔑 0 Private Repositories  
- > 
-
- 
+![Metrics](https://metrics.lecoq.io/zmdlw?template=classic&isocalendar=1&habits=1&fortune=1&repositories=1&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar=false&isocalendar.duration=half-year&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&repositories=false&repositories.pinned=0&repositories.starred=0&repositories.random=0&repositories.order=featured%2C%20pinned%2C%20starred%2C%20random&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&fortune=false&config.timezone=Asia%2FSeoul)
