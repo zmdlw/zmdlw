@@ -4,15 +4,6 @@
 
 ## I'm [**zmdlw**]() and welcome to my GitHub profile!
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> A little more about me...  
-
-```python
-if awake:
-    code()
-elif tired:
-    drink_coffee()
-```
-
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **Languages/Tech Stack:** 
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"><img src="https://img.shields.io/badge/C++-8b00ff?style=for-the-badge&logo=Cplusplus&logoColor=white">
